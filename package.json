@@ -1,0 +1,17 @@
+{
+  "name": "git_desarrollo_colaborativo",
+  "version": "1.0.0",
+  "description": "Current Date: 05/16/2026",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "path": "^0.12.7"
+  }
+}
